@@ -12,7 +12,7 @@ async function POST(request) {
           const res = response.data
           console.log(res);
 
-          if 
+          
 
      } catch (err) {
           console.log("There was an error", err);
